@@ -13,13 +13,12 @@ $string&="Ngamahu Flame's Advance,Hinekora Death's Fury,Tasalio Cleansing Water,
 $string&="Enduring Bond,Fearsome Force,Indomitable Army,Inspiring Bond,Golem Commander,Field Medicine,Blast Waves,Successive Detonations,Efficient Explosives,Searing Heat,Dire Torment,Watchtowers,Surveillance,Panopticon,Powerful Bond,Burning Brutality,Deep Breaths,Measured Fury,Unfaltering,Discord Artisan,Adjacent Animosity,Window of Opportunity,Undertaker,Bannerman,Instinct,Assured Strike,Anointed Flesh,Harpooner,Serpentine Spellslinger,Forethought,Infused Flesh,Brand Equity,Trick Shot,Split Shot,Deflection,Replenishing Remedies,Acrimony,Harvester of Foes,Malicious Intent,Marked for Death,Mark the Prey,Hearty,Vanquisher,Relentless,Veteran Soldier,Asylum,Careful Conservationist,Natural Remedies,Bastion Breaker,Way of the Warrior,Deadly Inclinations,Mystic Talents,Heart of Darkness,Vengeant Cascade,Tribal Fury,Tenacity,Tranquility,Crusader,Persistence,Hardened Scars,Cleansed Thoughts,Aspect of Stone"
 
 $aArray = StringSplit($string,',',2)
-
+$weight = 1
 $sList = ""
 For $i = 0 To UBound($aArray) - 1
     $sList &= "|" & $aArray[$i]
 Next
 $AllPassiveArray = StringSplit($sList,'|',2)
-
 
 
 
@@ -47,7 +46,7 @@ $nearDoomsday = StringReplace("Enigmatic Defence,Heart of Ice,Mental Rapidity,Pr
 
 Global $neararray = [$nearDoomsday,$nearCleaving,$nearMoM ,$nearSupremeEgo ,$nearPainAttunement ,$nearWindDancer ,$nearGhostDance ,$nearIronGrip ,$nearUnwaveringStance ,$nearIronWill ,$nearSolipsism ,$nearElementalEquilibrium ,$nearZealotsOath ,$nearPointBlank ,$nearDivineShield ,$nearCallToArms ,$nearMeasuredFury ,$nearPerfectAgony ,$nearTheAgnostic ,$nearEternalYouth ,$nearEldritchBattery]
 
-Local $hGUI = GUICreate("Timeless Jewel Reverse Search v1.0-beta",1200,710) ;gui create
+Local $hGUI = GUICreate("Timeless Jewel Reverse Search v1.1-beta",1200,710) ;gui create
 GUISetFont(10)
 GUISetBkColor(0xb6b6b6)
 
@@ -225,8 +224,17 @@ While 1
 ;~ 						$modtype = stringreplace($modtype,'','')
 ;~ 						$modtype = stringreplace($modtype,'','')
 						$stuff[$p][$q] =$modtype
+;~ 						ConsoleWrite($mod)
+;~ 						ConsoleWrite(@CRLF)
+						if $mod = "Revitalising Darkness" or $mod = "Ritual of Shadows" Then
 
-						$stuff[$p][$q+1] =UBound(_ArrayFindAll($mods,$mod))
+							$stuff[$p][$q+1] =UBound(_ArrayFindAll($mods,$mod))+$weight
+							ConsoleWrite($mod &'='&UBound(_ArrayFindAll($mods,$mod)))
+							ConsoleWrite(@CRLF)
+
+						Else
+							$stuff[$p][$q+1] =UBound(_ArrayFindAll($mods,$mod))
+						EndIf
 						$p += 1
 
 						$donemod &=$mod
@@ -239,6 +247,7 @@ While 1
 					if $stuff[$oi][0] == '' Then
 						_ArrayDelete($stuff,$oi)
 					EndIf
+
 				Next
 
 ;~ 				_ArrayDisplay($stuff)
@@ -246,15 +255,21 @@ While 1
 ;~ 				_ArrayDisplay($stuff)
 ;~ 				Exit
 
+				for $oi = 0 to UBound($stuff) - 1
+					if $stuff[$oi][0] = "Revitalising Darkness" or $stuff[$oi][0] = "Ritual of Shadows" Then
+						$stuff[$oi][1] = Int($stuff[$oi][1]) - $weight
+					EndIf
+				Next
+
+
+
 				GUICtrlSetData($field1[$nearNum] , $stuff[0][0])
-
-;~ 				ConsoleWrite(ControlGetHandle($hGUI,'',GUICtrlRead($field1)))
-;~ 				ControlSend($hGUI,'',ControlGetHandle($hGUI,'',GUICtrlRead($field1)),'FIRE')
-
 				GUICtrlSetData($field1count[$nearNum] ,$stuff[0][1])
 
-				GUICtrlSetData($field2[$nearNum] , $stuff[1][0])
-				GUICtrlSetData($field2count[$nearNum] , $stuff[1][1])
+				if UBound($stuff,1) >1 Then
+					GUICtrlSetData($field2[$nearNum] , $stuff[1][0])
+					GUICtrlSetData($field2count[$nearNum] , $stuff[1][1])
+				EndIf
 				if UBound($stuff,1) >2 Then
 					GUICtrlSetData($field3[$nearNum] , $stuff[2][0])
 					GUICtrlSetData($field3count[$nearNum] , $stuff[2][1])
