@@ -1,3 +1,5 @@
+;Added weighting to Chance to intimidate
+
 #include <GuiConstants.au3>
 #Include <APIConstants.au3>
 #include <File.au3>
@@ -46,7 +48,7 @@ $nearDoomsday = StringReplace("Enigmatic Defence,Heart of Ice,Mental Rapidity,Pr
 
 Global $neararray = [$nearDoomsday,$nearCleaving,$nearMoM ,$nearSupremeEgo ,$nearPainAttunement ,$nearWindDancer ,$nearGhostDance ,$nearIronGrip ,$nearUnwaveringStance ,$nearIronWill ,$nearSolipsism ,$nearElementalEquilibrium ,$nearZealotsOath ,$nearPointBlank ,$nearDivineShield ,$nearCallToArms ,$nearMeasuredFury ,$nearPerfectAgony ,$nearTheAgnostic ,$nearEternalYouth ,$nearEldritchBattery]
 
-Local $hGUI = GUICreate("Timeless Jewel Reverse Search v1.1-beta",1200,710) ;gui create
+Local $hGUI = GUICreate("Timeless Jewel Reverse Search v1.2-beta",1200,710) ;gui create
 GUISetFont(10)
 GUISetBkColor(0xb6b6b6)
 
@@ -226,7 +228,7 @@ While 1
 						$stuff[$p][$q] =$modtype
 ;~ 						ConsoleWrite($mod)
 ;~ 						ConsoleWrite(@CRLF)
-						if $mod = "Revitalising Darkness" or $mod = "Ritual of Shadows" Then
+						if $modtype = "Revitalising Darkness" or $modtype = "Ritual of Shadows" or $modtype = "chance to intimidate on hit %" Then
 
 							$stuff[$p][$q+1] =UBound(_ArrayFindAll($mods,$mod))+$weight
 							ConsoleWrite($mod &'='&UBound(_ArrayFindAll($mods,$mod)))
@@ -256,7 +258,7 @@ While 1
 ;~ 				Exit
 
 				for $oi = 0 to UBound($stuff) - 1
-					if $stuff[$oi][0] = "Revitalising Darkness" or $stuff[$oi][0] = "Ritual of Shadows" Then
+					if $stuff[$oi][0] = "Revitalising Darkness" or $stuff[$oi][0] = "Ritual of Shadows" or $stuff[$oi][0] = "chance to intimidate on hit %" Then
 						$stuff[$oi][1] = Int($stuff[$oi][1]) - $weight
 					EndIf
 				Next
