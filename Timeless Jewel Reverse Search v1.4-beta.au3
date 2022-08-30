@@ -46,7 +46,7 @@ $nearDoomsday = StringReplace("Enigmatic Defence,Heart of Ice,Mental Rapidity,Pr
 
 Global $neararray = [$nearDoomsday,$nearCleaving,$nearMoM ,$nearSupremeEgo ,$nearPainAttunement ,$nearWindDancer ,$nearGhostDance ,$nearIronGrip ,$nearUnwaveringStance ,$nearIronWill ,$nearSolipsism ,$nearElementalEquilibrium ,$nearZealotsOath ,$nearPointBlank ,$nearDivineShield ,$nearCallToArms ,$nearMeasuredFury ,$nearPerfectAgony ,$nearTheAgnostic ,$nearEternalYouth ,$nearEldritchBattery]
 
-Local $hGUI = GUICreate("Timeless Jewel Reverse Search v1.3-beta",1200,710) ;gui create
+Local $hGUI = GUICreate("Timeless Jewel Reverse Search v1.4-beta",1200,710) ;gui create
 GUISetFont(10)
 GUISetBkColor(0xb6b6b6)
 
@@ -307,6 +307,14 @@ While 1
 
 	EndSwitch
 WEnd
+
+
+
+
+
+
+
+
 
 
 
