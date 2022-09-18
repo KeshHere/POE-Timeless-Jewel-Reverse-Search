@@ -273,6 +273,10 @@ While 1
 			if GUICtrlRead($JewelCombo) == 'Glorious Vanity' Then $filetoread = "GloriousVanitySeeds.csv"
 			$array = FileReadToArray($filetoread)
 
+			if $array = '' Then
+				MsgBox(0,'Error', 'Please download the 5 CSV files from GITHUB (They are in 2 zips on main page) and put it in the same folder as this app.')
+				Exit
+			EndIf
 			for $line in $array
 				if StringSplit($line,',')[1] == GUICtrlRead($seedVal) Then
 ;~ 					ConsoleWrite($line)
