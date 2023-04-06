@@ -1,7 +1,7 @@
-# POE-Timeless-Jewel-Reverse-Search
+# POE-Timeless-Jewel-Reverse-Search for 3.21
 Let's make sure you don't roll over a good jewel...
 
-
+Please look at https://github.com/KeshHere/TimelessJewelData if you use just the CSVs for your use as there have been some changes
 
     This is still in beta, so if you encounter any bugs or mistakes please feel free to let me know. You need all 5 CSV files and 
     source file .au3 to run the program.
