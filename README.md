@@ -1,4 +1,4 @@
-# POE-Timeless-Jewel-Reverse-Search for 3.21
+# POE-Timeless-Jewel-Reverse-Search
 Let's make sure you don't roll over a good jewel...
 
 Please look at https://github.com/KeshHere/TimelessJewelData if you use just the CSVs for your use as there have been some changes
