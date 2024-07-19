@@ -17,13 +17,14 @@
 ;~ $string&="Influence,Fusillade,Whispers of Doom,Alacrity,Searing Heat,Elder Power,Winter's Embrace,Efficient Explosives,Mysticism,Conjured Barrier,Arcane Sanctuary,Throatseeker,Disintegration,High Voltage,Glacial Cage"
 
 
-;~ 3.22
-Global $string="Aggressive Bastion,Cleaving,Spiked Bulwark,Slaughter,Harpooner,Savage Wounds,Hearty,Robust,Juggernaut,Strong Arm,Stamina,Barbarism,Cannibalistic Rite,Disemboweling,Lust for Carnage,Warrior Training,Diamond Skin,Asylum,Enduring Bond,Arcanist's Dominion,Anointed Flesh,Quick Recovery,Essence Infusion,Fire Walker,Annihilation,Essence Extraction,Charisma,Master Sapper,Dire Torment,Adder's Touch,Wasting,Overcharged,Void Barrier,Ballistics,Replenishing Remedies,Revenge of the Hunted,Taste for Blood,Excess Sustenance,Nimbleness,Tolerance,Vampirism,Melding,Undertaker,Deep Wisdom,Steeped in the Profane,Grave Intentions,Quickstep,Forces of Nature,Weapon Artistry,Swift Venoms,Multishot,Flash Freeze,Silent Steps,Perfectionist,Herbalism,Survivalist,Aspect of the Lynx,Intuition,Winter Spirit,Trick Shot,Fervour,King of the Hill,Acuity,Master Fletcher,Inveterate,Heartseeker,From the Shadows,Arcing Blows,Clever Thief,Backstabbing,Claws of the Hawk,Coldhearted Calculation,Infused,Blood Drinker,Soul Thief,Mark the Prey,Will of Blades,Flaying,Resourcefulness,Frenetic,Elemental Focus,Mind Drinker,Fangs of the Viper,Saboteur,Master of Blades,Depth Perception,Circle of Life,Claws of the Magpie,Expeditious Munitions,Sleight of Hand,Window of Opportunity,Battle Rouse,Path of the Warrior,Skittering Runes,Sentinel,Path of the Hunter,Arcane Chemistry,Reflexes,Hired Killer,Exceptional Performance,Constitution,Totemic Zeal,Eagle Eye,Berserking,Bloodletting,Martial Experience,Admonisher,Command of Steel,Prismatic Skin,Brink of Death,Potency of Will,Foresight,Dreamer,Decay Ward,Forethought,Relentless,Path of the Savant,Potent Connections,Ash Frost and Storm,Veteran Soldier,Inspiring Bond,Shaper,Destructive Apparatus,True Strike,Harrier,Thrill Killer,Leadership,Avatar of the Hunt,Burning Brutality,Crystal Skin,Profane Chemistry,Heavy Draw,Art of the Gladiator,Deadly Draw,Weathered Hunter,Gladiator's Perseverance,Might,Arcane Guarding,Death Attunement,Serpent Stance,Acrimony,Corruption,Empowered Bond,Fearsome Force,Defiled Forces,Unnatural Calm,Agility,Prism Weave,Blunt Trauma,Enigmatic Reach,Twin Terrors,Dazzling Strikes,Longshot,Thick Skin,Marked for Death,Feller of Foes,Blade Barrier,Fangs of Frost,Utmost Swiftness,Bladedancer,Skull Cracking,Vanquisher,Sanctum of Thought,Counterweight,Bone Breaker,Whirling Barrier,Smashing Strikes,Shamanistic Fury,Enigmatic Defence,Heart of Ice,Mental Rapidity,Prodigal Perfection,Breath of Lightning,Breath of Flames,Mystic Bulwark,Instability,Breath of Rime,Cruel Preparation,Wandslinger,Deep Thoughts,Arcane Will,Lord of the Dead,Golem Commander,Malicious Intent,Discord Artisan,Infused Flesh,Presage,Frost Walker,Heart of Thunder,Essence Surge,Executioner,Steadfast,Tribal Fury,Champion of the Cause,Blade of Cunning,Bannerman,Bastion Breaker,Surveillance,Golem's Blood,Vigour,Revelry,Deflection,Assured Strike,Cloth and Chain,Savagery,Ribcage Crusher,Dervish,Titanic Impacts,Master of the Arena,Destroyer,Measured Fury,Testudo,Bravery,Adamant,Defiance,Mana Flows,Dirty Techniques,Fury Bolts,Split Shot,Hunter's Gambit,Piercing Shots,Fatal Toxins,Careful Conservationist,Endurance,Divine Judgement,Divine Wrath,Runesmith,Surge of Vigour,Divine Fervour,Holy Dominion,Overcharge,Faith and Steel,Devotion,Divine Fury,Powerful Bond,Arcane Capacitor,Light of Divinity,Sanctuary,Combat Stamina,Dynamo,Sanctity,Gravepact,Expertise,Steelwood Stance,Deep Breaths,Ancestral Knowledge,Righteous Fury,"
-$string&="Blacksmith's Clout,Light Eater,Physique,Influence,Fusillade,Whispers of Doom,Alacrity,Searing Heat,Elder Power,Winter's Embrace,Efficient Explosives,Mysticism,Conjured Barrier,Arcane Sanctuary,Throatseeker,Disintegration,High Voltage,Glacial Cage"
+;~ 3.25
+Global $string="Aggressive Bastion,Indiscriminate Revenge,Cleaving,Spiked Bulwark,Slaughter,Harpooner,Savage Wounds,Hearty,Robust,Juggernaut,Measured Fury,Strong Arm,Stamina,Awe and Terror,Crushing Reply,Barbarism,Inexorable,Cannibalistic Rite,Disemboweling,Lust for Carnage,Warrior Training,Diamond Skin,Asylum,Force of Darkness,Enduring Bond,Arcanist's Dominion,Anointed Flesh,Quick Recovery,Essence Infusion,Fire Walker,Annihilation,Essence Extraction,Legacy of the Wilds,Charisma,Master Sapper,Dire Torment,Incorporeal,Adder's Touch,Colloidal Mixture,Wasting,Overcharged,Void Barrier,Ballistics,Replenishing Remedies,Revenge of the Hunted,Taste for Blood,Excess Sustenance,Knowledge Barrier,Nimbleness,Tolerance,Vampirism,Melding,Deep Wisdom,Dark Arts,Steeped in the Profane,Grave Intentions,Quickstep,Forces of Nature,Weapon Artistry,Swift Venoms,Multishot,Thrill of Battle,Flash Freeze,Silent Steps,Perfectionist,Herbalism,Survivalist,Aspect of the Lynx,Practised Reapplication,Intuition,Winter Spirit,Fervour,Acuity,Burst of Energy,Inveterate,Heartseeker,From the Shadows,Arcing Blows,Clever Thief,Backstabbing,Claws of the Hawk,Coldhearted Calculation,Infused,Blood Drinker,Soul Thief,Mark the Prey,Will of Blades,Flaying,Resourcefulness,Frenetic,Elemental Focus,Mind Drinker,Fangs of the Viper,Saboteur,Master of Blades,Depth Perception,Circle of Life,Claws of the Magpie,Expeditious Munitions,Sleight of Hand,Window of Opportunity,Battle Rouse,Path of the Warrior,Skittering Runes,Sentinel,Path of the Hunter,Arcane Chemistry,Reflexes,Hired Killer,Exceptional Performance,Constitution,Totemic Zeal,Eagle Eye,Prepared Response,Wicked Blade,Berserking,King of the Hill,Bloodletting,Martial Experience,Spirit of War,Sione's Ambition,Admonisher,Command of Steel,Prismatic Skin,Potency of Will,Foresight,Dreamer,Decay Ward,Forethought,Relentless,Path of the Savant,Potent Connections,Ash Frost and Storm,Veteran Soldier,Inspiring Bond,Shaper,Destructive Apparatus,True Strike,Harrier,Thrill Killer,Leadership,Vinespike Cordial,Spirit Void,Nature's Concoction,Feline Swiftness,Avatar of the Hunt,Burning Brutality,Profane Chemistry,Heavy Draw,Art of the Gladiator,Deadly Draw,Weathered Hunter,Deliberate Brutality,Gladiator's Perseverance,Might,Arcane Guarding,Death Attunement,Serpent Stance,Acrimony,Corruption,Empowered Bond,Fearsome Force,Defiled Forces,Unnatural Calm,Agility,Prism Weave,Blunt Trauma,Enigmatic Reach,Twin Terrors,Surveillance,Dazzling Strikes,Thick Skin,Dance of Blades,Marked for Death,Cornered Prey,Fangs of Frost,Utmost Swiftness,Bladedancer,Skull Cracking,Battle Trance,Vanquisher,Sanctum of Thought,As The Thunder,Counterweight,Bone Breaker,Whirling Barrier,Smashing Strikes,Shamanistic Fury,Ironwood,Enigmatic Defence,Heart of Ice,Mental Rapidity,Prodigal Perfection,Breath of Lightning,Breath of Flames,Mystic Bulwark,Instability,Breath of Rime,Cruel Preparation,Wandslinger,Deep Thoughts,Arcane Will,Lord of the Dead,Golem Commander,Malicious Intent,Discord Artisan,Infused Flesh,Presage,Frost Walker,Heart of Thunder,Essence Surge,Executioner,Cruel Retort,Invigorating Blaze,Tribal Fury,Master of Wounds,Champion of the Cause,Feller of Foes,Flow of Battle,Blade of Cunning,Brink of Death,Bastion Breaker,Golem's Blood,Vigour,Retaliation,Revelry,Ambidexterity,Deflection,Assured Strike,Cloth and Chain,Savagery,Ribcage Crusher,Dervish,Titanic Impacts,Forceful Skewering,Master of the Arena,Seasoned Swordplay,"
+$string&="Destroyer,Bravery,Adamant,Defiance,Mana Flows,Dirty Techniques,Fury Bolts,Roaring Challenge,Split Shot,Hunter's Gambit,Piercing Shots,Fatal Toxins,Careful Conservationist,Trick Shot,Endurance,Divine Judgement,Divine Wrath,Runesmith,Surge of Vigour,Divine Fervour,Holy Dominion,Overcharge,Faith and Steel,Devotion,Divine Fury,Powerful Bond,Arcane Capacitor,Light of Divinity,Careful Counterattack,Arsonist,Magmatic Strikes,Always Angry,Wood Stone and Spell,Sanctuary,Combat Stamina,Dynamo,Sanctity,Gravepact,Expertise,Steelwood Stance,Deep Breaths,Ancestral Knowledge,Righteous Fury,Light Eater,Physique,Influence,Fusillade,Whispers of Doom,Alacrity,Searing Heat,Elder Power,Winter's Embrace,Efficient Explosives,Mysticism,Conjured Barrier,Throatseeker,Disintegration,High Voltage,Glacial Cage"
 
 $aArray = StringSplit($string,',',2)
 
-$weightedmods = "Revitalising Darkness,Ritual of Shadows,+_intimidate,+_double_damage"
+$weightedmods = "Revitalising Darkness,Ritual of Shadows,+ intimidate,+ double dmg"
+;~ $weightedmods = ""
 $weight = 1
 $sList = ""
 For $i = 0 To UBound($aArray) - 1
@@ -43,61 +44,60 @@ $vanitylist = "Ancient Hex|Automaton Studies|Blood-Quenched Bulwark|Bloody Savag
 
 
 
-;old 3.21
-$nearCleaving = StringReplace("Aggressive Bastion,Cleaving,Spiked Bulwark,Slaughter,Harpooner,Savage Wounds,Hearty,Robust,Juggernaut,Strong Arm,Stamina,Barbarism,Cannibalistic Rite,Disemboweling,Lust for Carnage,Warrior Training,Diamond Skin",',',@CRLF)
-$nearMoM = StringReplace("Asylum,Enduring Bond,Arcanist's Dominion,Anointed Flesh,Quick Recovery,Essence Infusion,Fire Walker,Annihilation,Essence Extraction",',',@CRLF)
-$nearSupremeEgo = StringReplace("Charisma,Master Sapper,Dire Torment,Adder's Touch,Wasting,Overcharged,Void Barrier,Ballistics,Replenishing Remedies,Revenge of the Hunted,Taste for Blood,Excess Sustenance",',',@CRLF)
-$nearPainAttunement = StringReplace("Nimbleness,Tolerance,Vampirism,Melding,Undertaker,Deep Wisdom,Steeped in the Profane,Grave Intentions",',',@CRLF)
-$nearWindDancer = StringReplace("Quickstep,Forces of Nature,Weapon Artistry,Swift Venoms,Multishot,Flash Freeze,Silent Steps,Perfectionist,Herbalism,Survivalist,Aspect of the Lynx,Intuition,Winter Spirit,Trick Shot,Fervour,King of the Hill,Acuity,Master Fletcher,Inveterate,Heartseeker",',',@CRLF)
-$nearGhostDance = StringReplace("From the Shadows,Arcing Blows,Clever Thief,Backstabbing,Claws of the Hawk,Coldhearted Calculation,Infused,Blood Drinker,Soul Thief,Mark the Prey,Will of Blades,Flaying,Resourcefulness,Frenetic,Elemental Focus,Mind Drinker,Fangs of the Viper,Saboteur,Master of Blades,Depth Perception,Circle of Life,Claws of the Magpie,Expeditious Munitions,Sleight of Hand",',',@CRLF)
-$nearIronGrip = StringReplace("Window of Opportunity,Battle Rouse,Path of the Warrior,Skittering Runes,Sentinel,Path of the Hunter,Arcane Chemistry,Reflexes,Hired Killer,Exceptional Performance,Constitution,Totemic Zeal",',',@CRLF)
-$nearUnwaveringStance = StringReplace("Eagle Eye,Berserking,Bloodletting,Martial Experience,Admonisher,Command of Steel,Prismatic Skin,Brink of Death",',',@CRLF)
-$nearIronWill = StringReplace("Potency of Will,Foresight,Dreamer,Path of the Warrior,Skittering Runes,Decay Ward,Forethought,Relentless,Path of the Savant,Potent Connections,Ash Frost and Storm,Veteran Soldier,Constitution,Inspiring Bond,Totemic Zeal,Shaper",',',@CRLF)
-$nearSolipsism = StringReplace("Potency of Will,Foresight,Window of Opportunity,Master Sapper,Path of the Hunter,Destructive Apparatus,True Strike,Harrier,Path of the Savant,Reflexes,Potent Connections,Thrill Killer,Hired Killer,Exceptional Performance,Leadership",',',@CRLF)
-$nearElementalEquilibrium = StringReplace("Avatar of the Hunt,Burning Brutality,Crystal Skin,Profane Chemistry,Heavy Draw,Art of the Gladiator,Deadly Draw,Weathered Hunter,Gladiator's Perseverance",',',@CRLF)
-$nearBluntTrauma = StringReplace("Might,Arcane Guarding,Death Attunement,Serpent Stance,Acrimony,Corruption,Empowered Bond,Fearsome Force,Defiled Forces,Unnatural Calm,Agility,Prism Weave,Blunt Trauma,Enigmatic Reach",',',@CRLF)
-$nearPointBlank = StringReplace("Twin Terrors,Dazzling Strikes,Longshot,Thick Skin,Marked for Death,Feller of Foes,Blade Barrier,Fangs of Frost,Utmost Swiftness,Bladedancer",',',@CRLF)
-$nearDivineShield = StringReplace("Skull Cracking,Vanquisher,Sanctum of Thought,Counterweight,Bone Breaker,Whirling Barrier,Smashing Strikes,Shamanistic Fury,Disemboweling",',',@CRLF)
-$nearHexMaster = StringReplace("Enigmatic Defence,Heart of Ice,Mental Rapidity,Prodigal Perfection,Breath of Lightning,Breath of Flames,Mystic Bulwark,Instability,Breath of Rime,Cruel Preparation,Wandslinger,Deep Thoughts,Arcane Will,Lord of the Dead,Golem Commander,Malicious Intent,Discord Artisan,Infused Flesh,Presage,Frost Walker,Heart of Thunder,Essence Surge",',',@CRLF)
-$nearCallToArms = StringReplace("Executioner,Steadfast,Tribal Fury,Lava Lash,Blade of Cunning,Bastion Breaker",',',@CRLF)
-$nearMeasuredFury = StringReplace("Surveillance,Golem's Blood,Vigour,Revelry,Deflection,Assured Strike,Cloth and Chain,Savagery,Ribcage Crusher,Dervish,Titanic Impacts,Master of the Arena,Destroyer,Measured Fury,Testudo,Bravery,Art of the Gladiator,Adamant,Defiance,Mana Flows,Dirty Techniques,Fury Bolts",',',@CRLF)
-$nearPerfectAgony = StringReplace("From the Shadows,Forces of Nature,Split Shot,Clever Thief,Hunter's Gambit,Multishot,Silent Steps,Perfectionist,Piercing Shots,Survivalist,Fatal Toxins,Careful Conservationist,Mark the Prey,Trick Shot,Inveterate,Heartseeker",',',@CRLF)
-$nearTheAgnostic = StringReplace("Endurance,Divine Judgement,Divine Wrath,Runesmith,Sanctum of Thought,Surge of Vigour,Divine Fervour,Holy Dominion,Overcharge,Faith and Steel,Devotion,Divine Fury,Powerful Bond,Arcane Capacitor,Smashing Strikes,Light of Divinity",',',@CRLF)
-$nearEternalYouth = StringReplace("Sanctuary,Combat Stamina,Dynamo,Sanctity,Gravepact,Expertise,Steelwood Stance,Deep Breaths,Ancestral Knowledge,Righteous Fury,Blacksmith's Clout,Inspiring Bond",',',@CRLF)
-$nearEldritchBattery = StringReplace("Light Eater,Physique,Influence,Fusillade,Whispers of Doom,Alacrity,Searing Heat,Elder Power,Winter's Embrace,Efficient Explosives,Mysticism,Conjured Barrier,Arcane Sanctuary,Throatseeker,Disintegration,High Voltage,Glacial Cage",',',@CRLF)
 
 
+;old 3.22
+;~ $nearCleaving = StringReplace("Aggressive Bastion,Cleaving,Spiked Bulwark,Slaughter,Harpooner,Savage Wounds,Hearty,Robust,Juggernaut,Strong Arm,Stamina,Barbarism,Cannibalistic Rite,Disemboweling,Lust for Carnage,Warrior Training,Diamond Skin",',',@CRLF)
+;~ $nearMoM= StringReplace("Asylum,Enduring Bond,Arcanist's Dominion,Anointed Flesh,Quick Recovery,Essence Infusion,Fire Walker,Annihilation,Essence Extraction",',',@CRLF)
+;~ $nearSupremeEgo = StringReplace("Charisma,Master Sapper,Dire Torment,Adder's Touch,Wasting,Overcharged,Void Barrier,Ballistics,Replenishing Remedies,Revenge of the Hunted,Taste for Blood,Excess Sustenance",',',@CRLF)
+;~ $nearPainAttunement = StringReplace("Nimbleness,Tolerance,Vampirism,Melding,Undertaker,Deep Wisdom,Steeped in the Profane,Grave Intentions",',',@CRLF)
+;~ $nearWindDancer = StringReplace("Quickstep,Forces of Nature,Weapon Artistry,Swift Venoms,Multishot,Flash Freeze,Silent Steps,Perfectionist,Herbalism,Survivalist,Aspect of the Lynx,Intuition,Winter Spirit,Trick Shot,Fervour,King of the Hill,Acuity,Master Fletcher,Inveterate,Heartseeker",',',@CRLF)
+;~ $nearGhostDance = StringReplace("From the Shadows,Arcing Blows,Clever Thief,Backstabbing,Claws of the Hawk,Coldhearted Calculation,Infused,Blood Drinker,Soul Thief,Mark the Prey,Will of Blades,Flaying,Resourcefulness,Frenetic,Elemental Focus,Mind Drinker,Fangs of the Viper,Saboteur,Master of Blades,Depth Perception,Circle of Life,Claws of the Magpie,Expeditious Munitions,Sleight of Hand",',',@CRLF)
+;~ $nearIronGrip = StringReplace("Window of Opportunity,Battle Rouse,Path of the Warrior,Skittering Runes,Sentinel,Path of the Hunter,Arcane Chemistry,Reflexes,Hired Killer,Exceptional Performance,Constitution,Totemic Zeal",',',@CRLF)
+;~ $nearUnwaveringStance = StringReplace("Eagle Eye,Berserking,Bloodletting,Martial Experience,Admonisher,Command of Steel,Prismatic Skin,Brink of Death",',',@CRLF)
+;~ $nearIronWill = StringReplace("Potency of Will,Foresight,Dreamer,Path of the Warrior,Skittering Runes,Decay Ward,Forethought,Relentless,Path of the Savant,Potent Connections,Ash Frost and Storm,Veteran Soldier,Constitution,Inspiring Bond,Totemic Zeal,Shaper",',',@CRLF)
+;~ $nearSolipsism = StringReplace("Potency of Will,Foresight,Window of Opportunity,Master Sapper,Path of the Hunter,Destructive Apparatus,True Strike,Harrier,Path of the Savant,Reflexes,Potent Connections,Thrill Killer,Hired Killer,Exceptional Performance,Leadership",',',@CRLF)
+;~ $nearElementalEquilibrium = StringReplace("Avatar of the Hunt,Burning Brutality,Crystal Skin,Profane Chemistry,Heavy Draw,Art of the Gladiator,Deadly Draw,Weathered Hunter,Gladiator's Perseverance",',',@CRLF)
+;~ $nearBluntTrauma = StringReplace("Might,Arcane Guarding,Death Attunement,Serpent Stance,Acrimony,Corruption,Empowered Bond,Fearsome Force,Defiled Forces,Unnatural Calm,Agility,Prism Weave,Blunt Trauma,Enigmatic Reach",',',@CRLF)
+;~ $nearPointBlank = StringReplace("Twin Terrors,Dazzling Strikes,Longshot,Thick Skin,Marked for Death,Feller of Foes,Blade Barrier,Fangs of Frost,Utmost Swiftness,Bladedancer",',',@CRLF)
+;~ $nearDivineShield = StringReplace("Skull Cracking,Vanquisher,Sanctum of Thought,Counterweight,Bone Breaker,Whirling Barrier,Smashing Strikes,Shamanistic Fury,Disemboweling",',',@CRLF)
+;~ $nearHexMaster = StringReplace("Enigmatic Defence,Heart of Ice,Mental Rapidity,Prodigal Perfection,Breath of Lightning,Breath of Flames,Mystic Bulwark,Instability,Breath of Rime,Cruel Preparation,Wandslinger,Deep Thoughts,Arcane Will,Lord of the Dead,Golem Commander,Malicious Intent,Discord Artisan,Infused Flesh,Presage,Frost Walker,Heart of Thunder,Essence Surge",',',@CRLF)
+;~ $nearCallToArms = StringReplace("Executioner,Steadfast,Tribal Fury,Champion of the Cause,Blade of Cunning,Bannerman,Bastion Breaker",',',@CRLF)
+;~ $nearMeasuredFury = StringReplace("Surveillance,Golem's Blood,Vigour,Revelry,Deflection,Assured Strike,Cloth and Chain,Savagery,Ribcage Crusher,Dervish,Titanic Impacts,Master of the Arena,Destroyer,Measured Fury,Testudo,Bravery,Art of the Gladiator,Adamant,Defiance,Mana Flows,Dirty Techniques,Fury Bolts",',',@CRLF)
+;~ $nearPerfectAgony = StringReplace("From the Shadows,Forces of Nature,Split Shot,Clever Thief,Hunter's Gambit,Multishot,Silent Steps,Perfectionist,Piercing Shots,Survivalist,Fatal Toxins,Careful Conservationist,Mark the Prey,Trick Shot,Inveterate,Heartseeker",',',@CRLF)
+;~ $nearTheAgnostic = StringReplace("Endurance,Divine Judgement,Divine Wrath,Runesmith,Sanctum of Thought,Surge of Vigour,Divine Fervour,Holy Dominion,Overcharge,Faith and Steel,Devotion,Divine Fury,Powerful Bond,Arcane Capacitor,Smashing Strikes,Light of Divinity",',',@CRLF)
+;~ $nearEternalYouth = StringReplace("Sanctuary,Combat Stamina,Dynamo,Sanctity,Gravepact,Expertise,Steelwood Stance,Deep Breaths,Ancestral Knowledge,Righteous Fury,Blacksmith's Clout,Inspiring Bond",',',@CRLF)
+;~ $nearEldritchBattery = StringReplace("Light Eater,Physique,Influence,Fusillade,Whispers of Doom,Alacrity,Searing Heat,Elder Power,Winter's Embrace,Efficient Explosives,Mysticism,Conjured Barrier,Arcane Sanctuary,Throatseeker,Disintegration,High Voltage,Glacial Cage",',',@CRLF)
 
-;new 3.22
-$nearCleaving = StringReplace("Aggressive Bastion,Cleaving,Spiked Bulwark,Slaughter,Harpooner,Savage Wounds,Hearty,Robust,Juggernaut,Strong Arm,Stamina,Barbarism,Cannibalistic Rite,Disemboweling,Lust for Carnage,Warrior Training,Diamond Skin",',',@CRLF)
-$nearMoM= StringReplace("Asylum,Enduring Bond,Arcanist's Dominion,Anointed Flesh,Quick Recovery,Essence Infusion,Fire Walker,Annihilation,Essence Extraction",',',@CRLF)
-$nearSupremeEgo = StringReplace("Charisma,Master Sapper,Dire Torment,Adder's Touch,Wasting,Overcharged,Void Barrier,Ballistics,Replenishing Remedies,Revenge of the Hunted,Taste for Blood,Excess Sustenance",',',@CRLF)
-$nearPainAttunement = StringReplace("Nimbleness,Tolerance,Vampirism,Melding,Undertaker,Deep Wisdom,Steeped in the Profane,Grave Intentions",',',@CRLF)
-$nearWindDancer = StringReplace("Quickstep,Forces of Nature,Weapon Artistry,Swift Venoms,Multishot,Flash Freeze,Silent Steps,Perfectionist,Herbalism,Survivalist,Aspect of the Lynx,Intuition,Winter Spirit,Trick Shot,Fervour,King of the Hill,Acuity,Master Fletcher,Inveterate,Heartseeker",',',@CRLF)
-$nearGhostDance = StringReplace("From the Shadows,Arcing Blows,Clever Thief,Backstabbing,Claws of the Hawk,Coldhearted Calculation,Infused,Blood Drinker,Soul Thief,Mark the Prey,Will of Blades,Flaying,Resourcefulness,Frenetic,Elemental Focus,Mind Drinker,Fangs of the Viper,Saboteur,Master of Blades,Depth Perception,Circle of Life,Claws of the Magpie,Expeditious Munitions,Sleight of Hand",',',@CRLF)
-$nearIronGrip = StringReplace("Window of Opportunity,Battle Rouse,Path of the Warrior,Skittering Runes,Sentinel,Path of the Hunter,Arcane Chemistry,Reflexes,Hired Killer,Exceptional Performance,Constitution,Totemic Zeal",',',@CRLF)
-$nearUnwaveringStance = StringReplace("Eagle Eye,Berserking,Bloodletting,Martial Experience,Admonisher,Command of Steel,Prismatic Skin,Brink of Death",',',@CRLF)
-$nearIronWill = StringReplace("Potency of Will,Foresight,Dreamer,Path of the Warrior,Skittering Runes,Decay Ward,Forethought,Relentless,Path of the Savant,Potent Connections,Ash Frost and Storm,Veteran Soldier,Constitution,Inspiring Bond,Totemic Zeal,Shaper",',',@CRLF)
-$nearSolipsism = StringReplace("Potency of Will,Foresight,Window of Opportunity,Master Sapper,Path of the Hunter,Destructive Apparatus,True Strike,Harrier,Path of the Savant,Reflexes,Potent Connections,Thrill Killer,Hired Killer,Exceptional Performance,Leadership",',',@CRLF)
-$nearElementalEquilibrium = StringReplace("Avatar of the Hunt,Burning Brutality,Crystal Skin,Profane Chemistry,Heavy Draw,Art of the Gladiator,Deadly Draw,Weathered Hunter,Gladiator's Perseverance",',',@CRLF)
-$nearBluntTrauma = StringReplace("Might,Arcane Guarding,Death Attunement,Serpent Stance,Acrimony,Corruption,Empowered Bond,Fearsome Force,Defiled Forces,Unnatural Calm,Agility,Prism Weave,Blunt Trauma,Enigmatic Reach",',',@CRLF)
-$nearPointBlank = StringReplace("Twin Terrors,Dazzling Strikes,Longshot,Thick Skin,Marked for Death,Feller of Foes,Blade Barrier,Fangs of Frost,Utmost Swiftness,Bladedancer",',',@CRLF)
-$nearDivineShield = StringReplace("Skull Cracking,Vanquisher,Sanctum of Thought,Counterweight,Bone Breaker,Whirling Barrier,Smashing Strikes,Shamanistic Fury,Disemboweling",',',@CRLF)
-$nearHexMaster = StringReplace("Enigmatic Defence,Heart of Ice,Mental Rapidity,Prodigal Perfection,Breath of Lightning,Breath of Flames,Mystic Bulwark,Instability,Breath of Rime,Cruel Preparation,Wandslinger,Deep Thoughts,Arcane Will,Lord of the Dead,Golem Commander,Malicious Intent,Discord Artisan,Infused Flesh,Presage,Frost Walker,Heart of Thunder,Essence Surge",',',@CRLF)
-$nearCallToArms = StringReplace("Executioner,Steadfast,Tribal Fury,Champion of the Cause,Blade of Cunning,Bannerman,Bastion Breaker",',',@CRLF)
-$nearMeasuredFury = StringReplace("Surveillance,Golem's Blood,Vigour,Revelry,Deflection,Assured Strike,Cloth and Chain,Savagery,Ribcage Crusher,Dervish,Titanic Impacts,Master of the Arena,Destroyer,Measured Fury,Testudo,Bravery,Art of the Gladiator,Adamant,Defiance,Mana Flows,Dirty Techniques,Fury Bolts",',',@CRLF)
-$nearPerfectAgony = StringReplace("From the Shadows,Forces of Nature,Split Shot,Clever Thief,Hunter's Gambit,Multishot,Silent Steps,Perfectionist,Piercing Shots,Survivalist,Fatal Toxins,Careful Conservationist,Mark the Prey,Trick Shot,Inveterate,Heartseeker",',',@CRLF)
-$nearTheAgnostic = StringReplace("Endurance,Divine Judgement,Divine Wrath,Runesmith,Sanctum of Thought,Surge of Vigour,Divine Fervour,Holy Dominion,Overcharge,Faith and Steel,Devotion,Divine Fury,Powerful Bond,Arcane Capacitor,Smashing Strikes,Light of Divinity",',',@CRLF)
-$nearEternalYouth = StringReplace("Sanctuary,Combat Stamina,Dynamo,Sanctity,Gravepact,Expertise,Steelwood Stance,Deep Breaths,Ancestral Knowledge,Righteous Fury,Blacksmith's Clout,Inspiring Bond",',',@CRLF)
-$nearEldritchBattery = StringReplace("Light Eater,Physique,Influence,Fusillade,Whispers of Doom,Alacrity,Searing Heat,Elder Power,Winter's Embrace,Efficient Explosives,Mysticism,Conjured Barrier,Arcane Sanctuary,Throatseeker,Disintegration,High Voltage,Glacial Cage",',',@CRLF)
+;new 3.25
+$nearCleaving = StringReplace("Aggressive Bastion,Indiscriminate Revenge,Cleaving,Spiked Bulwark,Slaughter,Harpooner,Savage Wounds,Hearty,Robust,Juggernaut,Measured Fury,Strong Arm,Stamina,Awe and Terror,Crushing Reply,Barbarism,Inexorable,Cannibalistic Rite,Disemboweling,Lust for Carnage,Warrior Training,Diamond Skin",",",@CRLF)
+$nearMoM = StringReplace("Asylum,Force of Darkness,Enduring Bond,Arcanist's Dominion,Anointed Flesh,Quick Recovery,Essence Infusion,Fire Walker,Annihilation,Essence Extraction",",",@CRLF)
+$nearSupremeEgo = StringReplace("Legacy of the Wilds,Charisma,Master Sapper,Dire Torment,Incorporeal,Adder's Touch,Colloidal Mixture,Wasting,Overcharged,Void Barrier,Ballistics,Replenishing Remedies,Revenge of the Hunted,Taste for Blood,Excess Sustenance",",",@CRLF)
+$nearPainAttunement = StringReplace("Knowledge Barrier,Nimbleness,Tolerance,Vampirism,Melding,Deep Wisdom,Dark Arts,Steeped in the Profane,Grave Intentions",",",@CRLF)
+$nearWindDancer = StringReplace("Quickstep,Forces of Nature,Weapon Artistry,Swift Venoms,Multishot,Thrill of Battle,Flash Freeze,Silent Steps,Perfectionist,Herbalism,Survivalist,Aspect of the Lynx,Practised Reapplication,Intuition,Winter Spirit,Fervour,Acuity,Burst of Energy,Inveterate,Heartseeker",",",@CRLF)
+$nearGhostDance = StringReplace("From the Shadows,Arcing Blows,Clever Thief,Backstabbing,Claws of the Hawk,Coldhearted Calculation,Infused,Blood Drinker,Soul Thief,Mark the Prey,Will of Blades,Flaying,Resourcefulness,Frenetic,Elemental Focus,Mind Drinker,Fangs of the Viper,Saboteur,Master of Blades,Depth Perception,Circle of Life,Claws of the Magpie,Expeditious Munitions,Sleight of Hand",",",@CRLF)
+$nearIronGrip = StringReplace("Window of Opportunity,Battle Rouse,Path of the Warrior,Skittering Runes,Sentinel,Path of the Hunter,Arcane Chemistry,Reflexes,Hired Killer,Exceptional Performance,Constitution,Totemic Zeal",",",@CRLF)
+$nearUnwaveringStance = StringReplace("Eagle Eye,Prepared Response,Wicked Blade,Berserking,King of the Hill,Bloodletting,Martial Experience,Spirit of War,Sione's Ambition,Admonisher,Command of Steel,Prismatic Skin",",",@CRLF)
+$nearIronWill = StringReplace("Potency of Will,Foresight,Dreamer,Path of the Warrior,Skittering Runes,Decay Ward,Forethought,Relentless,Path of the Savant,Potent Connections,Ash Frost and Storm,Veteran Soldier,Constitution,Inspiring Bond,Totemic Zeal,Shaper",",",@CRLF)
+$nearSolipsism = StringReplace("Potency of Will,Foresight,Window of Opportunity,Master Sapper,Path of the Hunter,Destructive Apparatus,True Strike,Harrier,Path of the Savant,Reflexes,Potent Connections,Thrill Killer,Hired Killer,Exceptional Performance,Leadership",",",@CRLF)
+$nearElementalEquilibrium = StringReplace("Vinespike Cordial,Spirit Void,Nature's Concoction,Feline Swiftness,Avatar of the Hunt,Burning Brutality,Profane Chemistry,Heavy Draw,Art of the Gladiator,Deadly Draw,Weathered Hunter,Deliberate Brutality,Gladiator's Perseverance",",",@CRLF)
+$nearBluntTrauma = StringReplace("Might,Arcane Guarding,Death Attunement,Serpent Stance,Acrimony,Corruption,Empowered Bond,Fearsome Force,Defiled Forces,Unnatural Calm,Agility,Prism Weave,Blunt Trauma,Enigmatic Reach",",",@CRLF)
+$nearPointBlank = StringReplace("Twin Terrors,Surveillance,Dazzling Strikes,Thick Skin,Dance of Blades,Marked for Death,Cornered Prey,Fangs of Frost,Utmost Swiftness,Bladedancer",",",@CRLF)
+$nearDivineShield = StringReplace("Skull Cracking,Battle Trance,Vanquisher,Sanctum of Thought,As The Thunder,Counterweight,Bone Breaker,Whirling Barrier,Smashing Strikes,Shamanistic Fury,Disemboweling,Ironwood",",",@CRLF)
+$nearHexMaster = StringReplace("Enigmatic Defence,Heart of Ice,Mental Rapidity,Prodigal Perfection,Breath of Lightning,Breath of Flames,Mystic Bulwark,Instability,Breath of Rime,Cruel Preparation,Wandslinger,Deep Thoughts,Arcane Will,Lord of the Dead,Golem Commander,Malicious Intent,Discord Artisan,Infused Flesh,Presage,Frost Walker,Heart of Thunder,Essence Surge",",",@CRLF)
+$nearArsenalofVengeance = StringReplace("Executioner,Cruel Retort,Invigorating Blaze,Tribal Fury,Master of Wounds,Champion of the Cause,Feller of Foes,Flow of Battle,Blade of Cunning,Brink of Death,Bastion Breaker",",",@CRLF)
+$nearIronReflexes = StringReplace("Golem's Blood,Vigour,Retaliation,Revelry,Ambidexterity,Deflection,Assured Strike,Cloth and Chain,Savagery,Ribcage Crusher,Dervish,Titanic Impacts,Forceful Skewering,Master of the Arena,Seasoned Swordplay,Destroyer,Bravery,Art of the Gladiator,Adamant,Defiance,Mana Flows,Dirty Techniques,Fury Bolts,Roaring Challenge",",",@CRLF)
+$nearAcrobatics = StringReplace("From the Shadows,Forces of Nature,Split Shot,Clever Thief,Hunter's Gambit,Multishot,Thrill of Battle,Silent Steps,Perfectionist,Piercing Shots,Survivalist,Fatal Toxins,Careful Conservationist,Mark the Prey,Trick Shot,Burst of Energy,Inveterate,Heartseeker",",",@CRLF)
+$nearTheAgnostic = StringReplace("Endurance,Divine Judgement,Divine Wrath,Runesmith,Sanctum of Thought,Surge of Vigour,Divine Fervour,Holy Dominion,Overcharge,Faith and Steel,Devotion,Divine Fury,Powerful Bond,Arcane Capacitor,Smashing Strikes,Light of Divinity,Careful Counterattack",",",@CRLF)
+$nearEternalYouth = StringReplace("Arsonist,Magmatic Strikes,Always Angry,Wood Stone and Spell,Sanctuary,Combat Stamina,Dynamo,Sanctity,Gravepact,Expertise,Steelwood Stance,Deep Breaths,Ancestral Knowledge,Righteous Fury,Inspiring Bond",",",@CRLF)
+$nearEldritchBattery = StringReplace("Light Eater,Physique,Influence,Fusillade,Whispers of Doom,Alacrity,Searing Heat,Elder Power,Winter's Embrace,Efficient Explosives,Mysticism,Conjured Barrier,Throatseeker,Disintegration,High Voltage,Glacial Cage",",",@CRLF)
 
+$nearList = "near: Cleaving|near: Mind Over Matter|near: Supreme Ego|near: Pain Attunement|near: Wind Dancer|near: Ghost Dance|near: Iron Grip|near: Unwavering Stance|near: Iron Will|near: Solipsism|near: Elemental Equilibrium|near: Point Blank|near: Divine Shield|near: Hex Master|near: Arsenal of Vengeance|near: Iron Reflexes|near: Acrobatics|near: The Agnostic|near: Eternal Youth|near: Eldritch Battery|near: Blunt Trauma"
 
-$nearList = "near: Cleaving|near: Mind Over Matter|near: Supreme Ego|near: Pain Attunement|near: Wind Dancer|near: Ghost Dance|near: Iron Grip|near: Unwavering Stance|near: Iron Will|near: Solipsism|near: Elemental Equilibrium|near: Point Blank|near: Divine Shield|near: Hex Master|near: Call to Arms|near: Measured Fury|near: Perfect Agony|near: The Agnostic|near: Eternal Youth|near: Eldritch Battery|near: Blunt Trauma"
-
-Global $neararray = [$nearCleaving,$nearMoM ,$nearSupremeEgo ,$nearPainAttunement ,$nearWindDancer ,$nearGhostDance ,$nearIronGrip ,$nearUnwaveringStance ,$nearIronWill ,$nearSolipsism ,$nearElementalEquilibrium ,$nearPointBlank ,$nearDivineShield ,$nearHexMaster,$nearCallToArms ,$nearMeasuredFury ,$nearPerfectAgony ,$nearTheAgnostic ,$nearEternalYouth ,$nearEldritchBattery,$nearBluntTrauma]
+Global $neararray = [$nearCleaving,$nearMoM ,$nearSupremeEgo ,$nearPainAttunement ,$nearWindDancer ,$nearGhostDance ,$nearIronGrip ,$nearUnwaveringStance ,$nearIronWill ,$nearSolipsism ,$nearElementalEquilibrium ,$nearPointBlank ,$nearDivineShield ,$nearHexMaster, $nearArsenalofVengeance,$nearIronReflexes,$nearAcrobatics,$nearTheAgnostic ,$nearEternalYouth ,$nearEldritchBattery,$nearBluntTrauma]
 ;~ Global $neararray = [$nearPointBlank]
 
-Local $hGUI = GUICreate("Timeless Jewel Reverse Search v1.9-beta",1200,710) ;gui create
+Local $hGUI = GUICreate("Timeless Jewel Reverse Search v3.25-beta",1200,710) ;gui create
 GUISetFont(10)
 GUISetBkColor(0xb6b6b6)
 
@@ -333,9 +333,9 @@ While 1
 					ConsoleWrite(@CRLF)
 					$index = _ArraySearch($AllPassiveArray,$notables)
 ;~ 					$index = _ArraySearch($AllPassiveArray,$notables)
-					ConsoleWrite($index)
+					ConsoleWrite($foundline[$index+1])
 					ConsoleWrite(@CRLF)
-					_ArrayAdd($mods,$foundline[$index])
+					_ArrayAdd($mods,$foundline[$index+1])
 
 				Next
 ;~ 				_ArrayDisplay($mods)
@@ -375,7 +375,7 @@ While 1
 ;~ 							ConsoleWrite(UBound(_ArrayFindAll($mods,$mod)))
 ;~ 							ConsoleWrite(@CRLF)
 							$stuff[$p][$q+1] =UBound(_ArrayFindAll($mods,$mod))+$weight
-;~ 							ConsoleWrite($mod &'='&UBound(_ArrayFindAll($mods,$mod)))
+							ConsoleWrite($mod &'=?'&UBound(_ArrayFindAll($mods,$mod)))
 ;~ 							ConsoleWrite(@CRLF)
 
 						Else
@@ -488,6 +488,19 @@ While 1
 
 	EndSwitch
 WEnd
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
